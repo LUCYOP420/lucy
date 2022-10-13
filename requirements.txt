@@ -12,7 +12,6 @@ search-engine-parser
 tgcrypto
 youtube-search-python==1.5.1
 youtube-search
-git+https://github.com/LUCYOP420/speedtest-cli@master
 cryptography
 dnspython
 future
